@@ -33,7 +33,7 @@ For this exercise we use their color and shape to classify and recognize them. W
 - Applied SVM (Support Vector Machines) classification using `train_svm.py`     
 
 ### Discussion
-#### The result of the `train_svm.py` can be overserved on the confusion matrix below. In order to get to this acurazy the iteration cycle was modified to 100 iteration per object. This process took aproximately 1 hours.
+#### The result of the `train_svm.py` can be overserved on the confusion matrix below. In order to get to this accuracy, the iteration cycle was modified to 100 iterations per object. This process took approximately 1.2 hours.
 ![alt text][image4]
 ![alt text][image5]
 #### Success rate for world 1 is 100% all objects were successfully classified
